@@ -109,3 +109,122 @@ After OS loads (inside Windows)
 ---
 
 If you want, I can give you a **real scenario-based questions (like interview asks: ‘touchpad works in BIOS but not in Windows—why?’)** — that will level you up fast.
+
+
+
+
+
+
+
+
+
+
+Here’s a **quick reference (shortcuts + steps)** for all the modes you asked — exactly how engineers remember it 👇
+
+---
+
+# ⚡ 🔑 SHORTCUT KEYS + PROCESS
+
+## 🔧 1. BIOS (Setup)
+
+### 🔑 Shortcut:
+
+* **F1 / F2 / Fn + F2** (common in Lenovo)
+
+### 📍 Process:
+
+1. Restart laptop
+2. Immediately keep pressing **F2 (or Fn+F2)**
+3. BIOS screen will open
+
+---
+
+## 🧪 2. Diagnostics (F10 / Lenovo Diagnostics)
+
+### 🔑 Shortcut:
+
+* **F10** *(some models)*
+* OR via Boot Menu
+
+### 📍 Process:
+
+1. Restart system
+2. Press **F10** continuously
+3. Select **Diagnostics**
+
+👉 Alternate:
+
+* Enter Boot Menu → choose Diagnostics
+
+---
+
+## ⚙️ 3. Boot Menu
+
+### 🔑 Shortcut:
+
+* **F12** (most common in Lenovo)
+
+### 📍 Process:
+
+1. Restart system
+2. Press **F12** continuously
+3. Select:
+
+   * HDD/SSD
+   * USB
+   * Network
+
+---
+
+## 🛡️ 4. Safe Mode (Windows)
+
+### 🔑 Shortcut (working method):
+
+* **Shift + Restart**
+
+### 📍 Process:
+
+1. Go to Start Menu
+2. Hold **Shift** → Click **Restart**
+3. Select:
+
+   * Troubleshoot
+   * Advanced Options
+   * Startup Settings
+   * Restart
+4. Press:
+
+   * **4 → Safe Mode**
+   * **5 → Safe Mode with Network**
+
+---
+
+## ⚡ BONUS (Forced method if system not booting)
+
+1. Turn ON system
+2. Force shutdown (hold power button)
+3. Repeat **3 times**
+
+👉 Windows will enter recovery → then go to Safe Mode
+
+---
+
+# 🧠 Quick memory trick
+
+| Function    | Key             |
+| ----------- | --------------- |
+| BIOS        | F2              |
+| Boot Menu   | F12             |
+| Diagnostics | F10             |
+| Safe Mode   | Shift + Restart |
+
+---
+
+# 🧾 One-line (interview ready)
+
+👉 *“BIOS is accessed using F2, Boot Menu with F12, Diagnostics with F10, and Safe Mode through Shift + Restart under Windows recovery options.”*
+
+---
+
+If you want, I can give you a **real Lenovo full key map (all shortcuts like Novo button, recovery, etc.)** — that’s very useful in support jobs.
+
